@@ -12,6 +12,7 @@ def shipping_manifest
   the_manifest["bone corset"] = 5 
   the_manifest["porcelan vases"] = 2 
   the_manifest["oil paintings"] = 3
+  
 end
 
 def retrieval
